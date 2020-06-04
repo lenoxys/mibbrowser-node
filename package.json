@@ -7,8 +7,8 @@
     "test": "vows --spec --isolate test/*"
   },
  "engines": {
-    "node": "0.8.x",
-    "npm":  "1.2.x"
+    "node": "0.8.17",
+    "npm":  "1.1.7"
   },
   "dependencies": {
     "express": "3.0.0rc4",
